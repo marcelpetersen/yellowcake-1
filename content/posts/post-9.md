@@ -15,7 +15,7 @@ meta:
   canonicalLink: ''
   description: test meta description
   noindex: false
-  title: test meta title
+  title: test mijn titel
 ---
 Paragraphs are separated by a blank line.
 
